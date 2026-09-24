@@ -1,0 +1,18 @@
+<!-- Файл проекта: описывает, как dotnet build/run собирает и запускает Lab3. Читается командами dotnet и Visual Studio. -->
+<!-- Sdk="Microsoft.NET.Sdk" — стандартный SDK: сам находит все *.cs в папке Lab3 (Program, MainForm, ParametersForm, Shape, DrawingPanel). -->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- WinExe — оконное приложение без консоли (запускается Program.Main -> Application.Run). -->
+    <OutputType>WinExe</OutputType>
+    <!-- Целевая платформа: .NET 10 под Windows (нужна для WinForms). -->
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <!-- Включены nullable-ссылочные типы: отсюда List<Point>? и object? sender в коде. -->
+    <Nullable>enable</Nullable>
+    <!-- Подключает библиотеки WinForms (Form, Button, Panel, Timer, System.Drawing); без этого код не соберётся. -->
+    <UseWindowsForms>true</UseWindowsForms>
+    <!-- Неявные using: не нужно писать using System.Windows.Forms / System.Drawing / System.Collections.Generic в каждом файле. -->
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

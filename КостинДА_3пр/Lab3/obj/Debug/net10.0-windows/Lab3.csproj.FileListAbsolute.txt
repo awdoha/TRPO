@@ -1,0 +1,14 @@
+D:\ТРПО(1)\КостинДА_3пр\Lab3\bin\Debug\net10.0-windows\Lab3.exe
+D:\ТРПО(1)\КостинДА_3пр\Lab3\bin\Debug\net10.0-windows\Lab3.deps.json
+D:\ТРПО(1)\КостинДА_3пр\Lab3\bin\Debug\net10.0-windows\Lab3.runtimeconfig.json
+D:\ТРПО(1)\КостинДА_3пр\Lab3\bin\Debug\net10.0-windows\Lab3.dll
+D:\ТРПО(1)\КостинДА_3пр\Lab3\bin\Debug\net10.0-windows\Lab3.pdb
+D:\ТРПО(1)\КостинДА_3пр\Lab3\obj\Debug\net10.0-windows\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ТРПО(1)\КостинДА_3пр\Lab3\obj\Debug\net10.0-windows\Lab3.AssemblyInfoInputs.cache
+D:\ТРПО(1)\КостинДА_3пр\Lab3\obj\Debug\net10.0-windows\Lab3.AssemblyInfo.cs
+D:\ТРПО(1)\КостинДА_3пр\Lab3\obj\Debug\net10.0-windows\Lab3.csproj.CoreCompileInputs.cache
+D:\ТРПО(1)\КостинДА_3пр\Lab3\obj\Debug\net10.0-windows\Lab3.dll
+D:\ТРПО(1)\КостинДА_3пр\Lab3\obj\Debug\net10.0-windows\refint\Lab3.dll
+D:\ТРПО(1)\КостинДА_3пр\Lab3\obj\Debug\net10.0-windows\Lab3.pdb
+D:\ТРПО(1)\КостинДА_3пр\Lab3\obj\Debug\net10.0-windows\Lab3.genruntimeconfig.cache
+D:\ТРПО(1)\КостинДА_3пр\Lab3\obj\Debug\net10.0-windows\ref\Lab3.dll

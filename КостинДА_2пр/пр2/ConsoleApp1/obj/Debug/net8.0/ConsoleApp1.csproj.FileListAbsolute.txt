@@ -1,0 +1,14 @@
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\bin\Debug\net8.0\MusicCatalog.exe
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\bin\Debug\net8.0\MusicCatalog.deps.json
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\bin\Debug\net8.0\MusicCatalog.runtimeconfig.json
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\bin\Debug\net8.0\MusicCatalog.dll
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\bin\Debug\net8.0\MusicCatalog.pdb
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\obj\Debug\net8.0\MusicCatalog.dll
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\obj\Debug\net8.0\refint\MusicCatalog.dll
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\obj\Debug\net8.0\MusicCatalog.pdb
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\ТРПО(1)\КостинДА_2пр\пр2\ConsoleApp1\obj\Debug\net8.0\ref\MusicCatalog.dll

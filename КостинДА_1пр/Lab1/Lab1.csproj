@@ -1,0 +1,18 @@
+﻿<!-- Корневой элемент проекта. Sdk="Microsoft.NET.Sdk" - стандартный набор правил сборки .NET: сам находит *.cs файлы в папке и собирает их. Используется: dotnet build / dotnet run / VS Code читают этот файл первым. -->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Группа свойств сборки: применяются ко всему проекту Lab1. -->
+  <PropertyGroup>
+    <!-- Exe = консольное приложение с точкой входа Program.Main (а не библиотека dll). Поэтому dotnet run запускает Main. -->
+    <OutputType>Exe</OutputType>
+    <!-- Целевая платформа .NET 10: нужен установленный SDK/Runtime 10; итог сборки - bin\Debug
+et10.0\Lab1.dll. -->
+    <TargetFramework>net10.0</TargetFramework>
+    <!-- Неявные using: System, System.IO, System.Linq, System.Collections.Generic и др. подключены автоматически (поэтому в коде можно писать List, Dictionary, Console, Select без using; using System.IO и System.Linq в Program.cs дублируют их). -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- Включает анализ null: string? = может быть null, string = не должно. Отсюда в коде Type?, MethodInfo?, string? и оператор ! . Даёт предупреждения, но не ошибки. -->
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <!-- Других элементов нет: ссылок на пакеты и файлов нет, все *.cs (Program.cs, TypeUtils.cs) подхватываются автоматически. -->
+
+</Project>
